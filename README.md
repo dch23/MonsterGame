@@ -10,4 +10,4 @@ This is a sandbox game that was built to explore:
 - Spider [here](https://github.com/PhilS94/Unity-Procedural-IK-Wall-Walking-Spider.git)
 
 ## How to use
-1. Navigate to [the executables](/Monster-Game-Executable) (mac and windows only)
+1. Navigate to [the executables](Monster Game Excecutable) (mac and windows only)
